@@ -1,0 +1,4 @@
+﻿  suma.cpp
+C:\Users\Bianca Milea\Desktop\uni\oop\lab1,1\oop\suma.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bianca Milea\Desktop\uni\oop\lab1,1\oop\suma.cpp(44,33): warning C4101: 'aux': unreferenced local variable
+  oop.vcxproj -> C:\Users\Bianca Milea\Desktop\uni\oop\lab1,1\Debug\oop.exe
